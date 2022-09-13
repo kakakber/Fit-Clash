@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="16119" systemVersion="19F53f" minimumToolsVersion="Automatic" sourceLanguage="Swift" usedWithCloudKit="YES" userDefinedModelVersionIdentifier="">
+    <entity name="DatoClassifica" representedClassName="DatoClassifica" syncable="YES" codeGenerationType="class">
+        <attribute name="nome" optional="YES" attributeType="String"/>
+        <attribute name="quantita" optional="YES" attributeType="Integer 64" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="username" optional="YES" attributeType="String"/>
+    </entity>
+    <entity name="SessioneAddominali" representedClassName="SessioneAddominali" syncable="YES" codeGenerationType="class">
+        <attribute name="addFatti" optional="YES" attributeType="Integer 64" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="giorno" optional="YES" attributeType="Date" usesScalarValueType="NO"/>
+        <attribute name="isInSessione" optional="YES" attributeType="Boolean" usesScalarValueType="YES"/>
+        <attribute name="livelloProvato" optional="YES" attributeType="Integer 32" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="livelloSuperato" optional="YES" attributeType="Boolean" usesScalarValueType="YES"/>
+        <attribute name="tempo" optional="YES" attributeType="Integer 64" defaultValueString="0" usesScalarValueType="YES"/>
+        <relationship name="statistiche" optional="YES" maxCount="1" deletionRule="Nullify" destinationEntity="StatisticheAddominali" inverseName="sessioni" inverseEntity="StatisticheAddominali"/>
+    </entity>
+    <entity name="SessioneFlessioni" representedClassName="SessioneFlessioni" syncable="YES" codeGenerationType="class">
+        <attribute name="flessFatte" optional="YES" attributeType="Integer 64" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="giorno" optional="YES" attributeType="Date" usesScalarValueType="NO"/>
+        <attribute name="isInSessione" optional="YES" attributeType="Boolean" usesScalarValueType="YES"/>
+        <attribute name="livelloProvato" optional="YES" attributeType="Integer 32" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="livelloSuperato" optional="YES" attributeType="Boolean" usesScalarValueType="YES"/>
+        <attribute name="tempo" optional="YES" attributeType="Integer 64" defaultValueString="0" usesScalarValueType="YES"/>
+        <relationship name="statistiche" optional="YES" maxCount="1" deletionRule="Nullify" destinationEntity="StatisticheFlessioni" inverseName="sessioni" inverseEntity="StatisticheFlessioni"/>
+    </entity>
+    <entity name="StatisticheAddominali" representedClassName="StatisticheAddominali" syncable="YES" codeGenerationType="class">
+        <attribute name="addominaliTotali" optional="YES" attributeType="Integer 32" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="allSelezionato" optional="YES" attributeType="Integer 16" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="lastDateWorkout" optional="YES" attributeType="Date" usesScalarValueType="NO"/>
+        <attribute name="livelliAddFiniti" optional="YES" attributeType="Transformable" customClassName="[Int]"/>
+        <attribute name="recordAdd" optional="YES" attributeType="Integer 32" defaultValueString="0" usesScalarValueType="YES"/>
+        <relationship name="sessioni" optional="YES" toMany="YES" deletionRule="Nullify" destinationEntity="SessioneAddominali" inverseName="statistiche" inverseEntity="SessioneAddominali"/>
+    </entity>
+    <entity name="StatisticheFlessioni" representedClassName="StatisticheFlessioni" syncable="YES" codeGenerationType="class">
+        <attribute name="allSelezionato" optional="YES" attributeType="Integer 16" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="flessioniTotali" optional="YES" attributeType="Integer 32" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="lastDateWorkout" optional="YES" attributeType="Date" usesScalarValueType="NO"/>
+        <attribute name="livelliFlessFiniti" optional="YES" attributeType="Transformable" customClassName="[Int]"/>
+        <attribute name="recordFless" optional="YES" attributeType="Integer 32" defaultValueString="0" usesScalarValueType="YES"/>
+        <relationship name="sessioni" optional="YES" toMany="YES" deletionRule="Nullify" destinationEntity="SessioneFlessioni" inverseName="statistiche" inverseEntity="SessioneFlessioni"/>
+    </entity>
+    <entity name="UserInfo" representedClassName="UserInfo" syncable="YES" codeGenerationType="class">
+        <attribute name="dataIscrizione" optional="YES" attributeType="String"/>
+        <attribute name="nomeCompleto" optional="YES" attributeType="String"/>
+        <attribute name="username" optional="YES" attributeType="String"/>
+    </entity>
+    <elements>
+        <element name="SessioneAddominali" positionX="-63" positionY="108" width="128" height="148"/>
+        <element name="SessioneFlessioni" positionX="-174.09765625" positionY="330.7578125" width="128" height="148"/>
+        <element name="StatisticheAddominali" positionX="-315.8125" positionY="116.71875" width="128" height="133"/>
+        <element name="StatisticheFlessioni" positionX="-364.90234375" positionY="311.4765625" width="128" height="133"/>
+        <element name="UserInfo" positionX="-216" positionY="261" width="128" height="88"/>
+        <element name="DatoClassifica" positionX="-216" positionY="261" width="128" height="88"/>
+    </elements>
+</model>

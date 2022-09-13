@@ -1,0 +1,507 @@
+
+/* Class = "UISegmentedControl"; 0Cw-HT-Kyl.segmentTitles[0] = "Settimana"; ObjectID = "0Cw-HT-Kyl"; */
+"0Cw-HT-Kyl.segmentTitles[0]" = "Settimana";
+
+/* Class = "UISegmentedControl"; 0Cw-HT-Kyl.segmentTitles[1] = "Mese"; ObjectID = "0Cw-HT-Kyl"; */
+"0Cw-HT-Kyl.segmentTitles[1]" = "Mese";
+
+/* Class = "UISegmentedControl"; 0Cw-HT-Kyl.segmentTitles[2] = "Anno"; ObjectID = "0Cw-HT-Kyl"; */
+"0Cw-HT-Kyl.segmentTitles[2]" = "Anno";
+
+/* Class = "UILabel"; text = "Log In"; ObjectID = "1Rx-7N-Q9h"; */
+"1Rx-7N-Q9h.text" = "Log In";
+
+/* Class = "UILabel"; text = "23/02/18"; ObjectID = "1yW-9U-3bf"; */
+"1yW-9U-3bf.text" = "23/02/18";
+
+/* Class = "UIButton"; normalTitle = "Salva sessione"; ObjectID = "2Ti-yz-aTE"; */
+"2Ti-yz-aTE.normalTitle" = "Salva sessione";
+
+/* Class = "UILabel"; text = "231"; ObjectID = "4nl-ni-tWp"; */
+"4nl-ni-tWp.text" = "231";
+
+/* Class = "UILabel"; text = "Statistiche"; ObjectID = "5Ij-pY-LYL"; */
+"5Ij-pY-LYL.text" = "Statistiche";
+
+/* Class = "UILabel"; text = "AMICI"; ObjectID = "5On-SU-RRp"; */
+"5On-SU-RRp.text" = "AMICI";
+
+/* Class = "UIButton"; normalTitle = "Invia richiesta"; ObjectID = "5xg-er-MLI"; */
+"5xg-er-MLI.normalTitle" = "Invia richiesta";
+
+/* Class = "UILabel"; text = "LA SESSIONE DI OGGI:"; ObjectID = "6EW-Oc-DK0"; */
+"6EW-Oc-DK0.text" = "LA SESSIONE DI OGGI:";
+
+/* Class = "UILabel"; text = "Sabato 4 aprile"; ObjectID = "6Sk-Aa-Nem"; */
+"6Sk-Aa-Nem.text" = "Sabato 4 aprile";
+
+/* Class = "UILabel"; text = "ACCESSO AL PROVIDER COMPLETATO"; ObjectID = "7XC-Ak-Mnc"; */
+"7XC-Ak-Mnc.text" = "ACCESSO AL PROVIDER COMPLETATO";
+
+/* Class = "UIButton"; normalTitle = "ACCEDI CON GOOGLE"; ObjectID = "7oe-qU-ahQ"; */
+"7oe-qU-ahQ.normalTitle" = "ACCEDI CON GOOGLE";
+
+/* Class = "UILabel"; text = "ADDOMINALI AL GIORNO"; ObjectID = "7tM-iA-Yog"; */
+"7tM-iA-Yog.text" = "ADDOMINALI AL GIORNO";
+
+/* Class = "UILabel"; text = "TOTALE"; ObjectID = "8kr-J9-7Tb"; */
+"8kr-J9-7Tb.text" = "TOTALE";
+
+/* Class = "UILabel"; text = "DACCI DENTRO"; ObjectID = "9Kl-z3-tUZ"; */
+"9Kl-z3-tUZ.text" = "DACCI DENTRO";
+
+/* Class = "UILabel"; text = "0.2"; ObjectID = "9VG-UD-R3I"; */
+"9VG-UD-R3I.text" = "0.2";
+
+/* Class = "UILabel"; text = "18 - 10 - 15 - 6 - 2"; ObjectID = "9yN-dW-p0M"; */
+"9yN-dW-p0M.text" = "18 - 10 - 15 - 6 - 2";
+
+/* Class = "UISegmentedControl"; ATs-6F-dfM.segmentTitles[0] = "Settimana"; ObjectID = "ATs-6F-dfM"; */
+"ATs-6F-dfM.segmentTitles[0]" = "Settimana";
+
+/* Class = "UISegmentedControl"; ATs-6F-dfM.segmentTitles[1] = "Mese"; ObjectID = "ATs-6F-dfM"; */
+"ATs-6F-dfM.segmentTitles[1]" = "Mese";
+
+/* Class = "UISegmentedControl"; ATs-6F-dfM.segmentTitles[2] = "Anno"; ObjectID = "ATs-6F-dfM"; */
+"ATs-6F-dfM.segmentTitles[2]" = "Anno";
+
+/* Class = "UIButton"; normalTitle = ">"; ObjectID = "B3g-L4-mPH"; */
+"B3g-L4-mPH.normalTitle" = ">";
+
+/* Class = "UILabel"; text = "SERIE:"; ObjectID = "BLN-Hl-EXU"; */
+"BLN-Hl-EXU.text" = "SERIE:";
+
+/* Class = "UILabel"; text = "@mattax"; ObjectID = "CHW-SO-C32"; */
+"CHW-SO-C32.text" = "@mattax";
+
+/* Class = "UILabel"; text = "Nessun allenamento fatto"; ObjectID = "Cfr-Mh-Tk5"; */
+"Cfr-Mh-Tk5.text" = "Nessun allenamento fatto";
+
+/* Class = "UITabBarItem"; title = "Amici"; ObjectID = "Dnh-lm-LFO"; */
+"Dnh-lm-LFO.title" = "Amici";
+
+/* Class = "UILabel"; text = "5    10   15  20  25"; ObjectID = "ECf-AA-Uzu"; */
+"ECf-AA-Uzu.text" = "5    10   15  20  25";
+
+/* Class = "UILabel"; text = "22"; ObjectID = "F8W-LH-ovY"; */
+"F8W-LH-ovY.text" = "22";
+
+/* Class = "UINavigationItem"; title = "ALLENAMENTO FLESSIONI"; ObjectID = "GFo-MG-Yeb"; */
+"GFo-MG-Yeb.title" = "ALLENAMENTO FLESSIONI";
+
+/* Class = "UITabBarItem"; title = "Flessioni"; ObjectID = "GP5-gl-tkI"; */
+"GP5-gl-tkI.title" = "Flessioni";
+
+/* Class = "UILabel"; text = "22"; ObjectID = "GlR-St-tXs"; */
+"GlR-St-tXs.text" = "22";
+
+/* Class = "UILabel"; text = "TOTALE"; ObjectID = "HDm-MP-vK3"; */
+"HDm-MP-vK3.text" = "TOTALE";
+
+/* Class = "UILabel"; text = "Tempo:"; ObjectID = "HVO-Lj-xhh"; */
+"HVO-Lj-xhh.text" = "Tempo:";
+
+/* Class = "UIButton"; normalTitle = "<"; ObjectID = "HcN-XI-701"; */
+"HcN-XI-701.normalTitle" = "<";
+
+/* Class = "UILabel"; text = "259 flessioni"; ObjectID = "HnB-7Q-J1o"; */
+"HnB-7Q-J1o.text" = "259 flessioni";
+
+/* Class = "UILabel"; text = "PER BATTERE IL RECORD:"; ObjectID = "ISW-tB-nun"; */
+"ISW-tB-nun.text" = "PER BATTERE IL RECORD:";
+
+/* Class = "UILabel"; text = "Completata, ottimo lavoro!"; ObjectID = "Iae-QK-ubh"; */
+"Iae-QK-ubh.text" = "Completata, ottimo lavoro!";
+
+/* Class = "UILabel"; text = "esercizi totali"; ObjectID = "JFU-OG-yEs"; */
+"JFU-OG-yEs.text" = "esercizi totali";
+
+/* Class = "UILabel"; text = "Classifica"; ObjectID = "JNS-ot-MMP"; */
+"JNS-ot-MMP.text" = "Classifica";
+
+/* Class = "UILabel"; text = "DA SEMPRE"; ObjectID = "JUc-db-VtL"; */
+"JUc-db-VtL.text" = "DA SEMPRE";
+
+/* Class = "UILabel"; text = "PER BATTERE IL RECORD:"; ObjectID = "JZm-gC-NQb"; */
+"JZm-gC-NQb.text" = "PER BATTERE IL RECORD:";
+
+/* Class = "UILabel"; text = "21"; ObjectID = "KDD-Aa-ZTO"; */
+"KDD-Aa-ZTO.text" = "21";
+
+/* Class = "UILabel"; text = "Inserisci le tue informazioni:"; ObjectID = "KXB-NR-EpL"; */
+"KXB-NR-EpL.text" = "Inserisci le tue informazioni:";
+
+/* Class = "UILabel"; text = "Ricordamelo alle 21:00"; ObjectID = "LPj-hD-6SD"; */
+"LPj-hD-6SD.text" = "Ricordamelo alle 21:00";
+
+/* Class = "UILabel"; text = "72"; ObjectID = "LgB-tF-LR4"; */
+"LgB-tF-LR4.text" = "72";
+
+/* Class = "UILabel"; text = "PREPARATI AD INIZIARE"; ObjectID = "MC3-8a-FFp"; */
+"MC3-8a-FFp.text" = "PREPARATI AD INIZIARE";
+
+/* Class = "UILabel"; text = "22"; ObjectID = "MJi-nm-ynH"; */
+"MJi-nm-ynH.text" = "22";
+
+/* Class = "UILabel"; text = "5"; ObjectID = "MzB-EP-eDI"; */
+"MzB-EP-eDI.text" = "5";
+
+/* Class = "UILabel"; text = "@enricox"; ObjectID = "Nhb-Az-Je0"; */
+"Nhb-Az-Je0.text" = "@enricox";
+
+/* Class = "UILabel"; text = "5"; ObjectID = "Nmm-8e-3QW"; */
+"Nmm-8e-3QW.text" = "5";
+
+/* Class = "UINavigationItem"; title = "SESSIONE TERMINATA"; ObjectID = "Nya-m3-j45"; */
+"Nya-m3-j45.title" = "SESSIONE TERMINATA";
+
+/* Class = "UILabel"; text = "RECORD"; ObjectID = "O3j-kH-TXK"; */
+"O3j-kH-TXK.text" = "RECORD";
+
+/* Class = "UILabel"; text = "DACCI DENTRO"; ObjectID = "OkU-l0-D0T"; */
+"OkU-l0-D0T.text" = "DACCI DENTRO";
+
+/* Class = "UILabel"; text = "Enrico Alberti"; ObjectID = "Oup-Po-edo"; */
+"Oup-Po-edo.text" = "Enrico Alberti";
+
+/* Class = "UIButton"; normalTitle = ">"; ObjectID = "Ovy-eS-CGq"; */
+"Ovy-eS-CGq.normalTitle" = ">";
+
+/* Class = "UILabel"; text = "18  -  20 -  15  -  10  -  6  "; ObjectID = "Oyo-Jl-rYW"; */
+"Oyo-Jl-rYW.text" = "18  -  20 -  15  -  10  -  6  ";
+
+/* Class = "UILabel"; text = "PER RECORD:"; ObjectID = "PE7-tg-oEc"; */
+"PE7-tg-oEc.text" = "PER RECORD:";
+
+/* Class = "UILabel"; text = "22"; ObjectID = "Pbm-9M-RDE"; */
+"Pbm-9M-RDE.text" = "22";
+
+/* Class = "UILabel"; text = "Prossima sessione tra: "; ObjectID = "Pmu-Wp-liv"; */
+"Pmu-Wp-liv.text" = "Prossima sessione tra: ";
+
+/* Class = "UILabel"; text = "Enrico Alberti"; ObjectID = "Q1t-3x-hb2"; */
+"Q1t-3x-hb2.text" = "Enrico Alberti";
+
+/* Class = "UINavigationItem"; title = "ALLENAMENTO ADDOMINALI"; ObjectID = "QX5-lb-hfc"; */
+"QX5-lb-hfc.title" = "ALLENAMENTO ADDOMINALI";
+
+/* Class = "UILabel"; text = "-"; ObjectID = "QzO-Jz-ufT"; */
+"QzO-Jz-ufT.text" = "-";
+
+/* Class = "UITextField"; placeholder = "Nome completo"; ObjectID = "RVh-nG-l6I"; */
+"RVh-nG-l6I.placeholder" = "Nome (facoltativo)";
+
+/* Class = "UILabel"; text = "26"; ObjectID = "SgQ-iD-Edm"; */
+"SgQ-iD-Edm.text" = "26";
+
+/* Class = "UILabel"; text = "Addominali totali:"; ObjectID = "SiN-76-tmc"; */
+"SiN-76-tmc.text" = "Addominali totali:";
+
+/* Class = "UILabel"; text = "AL GIORNO"; ObjectID = "T0x-Gu-jBX"; */
+"T0x-Gu-jBX.text" = "AL GIORNO";
+
+/* Class = "UINavigationItem"; title = "TUTTI I LIVELLI"; ObjectID = "TIz-nP-qGJ"; */
+"TIz-nP-qGJ.title" = "TUTTI I LIVELLI";
+
+/* Class = "UILabel"; text = "FLESSIONI AL GIORNO"; ObjectID = "U9x-Ec-btS"; */
+"U9x-Ec-btS.text" = "FLESSIONI AL GIORNO";
+
+/* Class = "UILabel"; text = "FLESSIONI TOTALI"; ObjectID = "Umd-yB-Vz9"; */
+"Umd-yB-Vz9.text" = "FLESSIONI TOTALI";
+
+/* Class = "UILabel"; text = "01:12"; ObjectID = "W0R-k2-oQE"; */
+"W0R-k2-oQE.text" = "01:12";
+
+/* Class = "UIButton"; normalTitle = "Rifiuta"; ObjectID = "WBu-Wm-71K"; */
+"WBu-Wm-71K.normalTitle" = "Rifiuta";
+
+/* Class = "UILabel"; text = "MAGGIO"; ObjectID = "WWt-OD-SNt"; */
+"WWt-OD-SNt.text" = "MAGGIO";
+
+/* Class = "UINavigationItem"; title = "SESSIONE IN CORSO"; ObjectID = "WgS-yt-lBS"; */
+"WgS-yt-lBS.title" = "SESSIONE IN CORSO";
+
+/* Class = "UIButton"; normalTitle = "Fine"; ObjectID = "XR2-Ng-SkF"; */
+"XR2-Ng-SkF.normalTitle" = "Fine";
+
+/* Class = "UILabel"; text = "Completata, ottimo lavoro!"; ObjectID = "YBn-xb-lde"; */
+"YBn-xb-lde.text" = "Completata, ottimo lavoro!";
+
+/* Class = "UILabel"; text = "LA SESSIONE DI OGGI:"; ObjectID = "YU1-i5-P3v"; */
+"YU1-i5-P3v.text" = "LA SESSIONE DI OGGI:";
+
+/* Class = "UILabel"; text = "ADDOMINALI TOTALI"; ObjectID = "Ya7-Ng-cmJ"; */
+"Ya7-Ng-cmJ.text" = "ADDOMINALI TOTALI";
+
+/* Class = "UITextField"; placeholder = "Username"; ObjectID = "Yjc-AG-6v7"; */
+"Yjc-AG-6v7.placeholder" = "Username";
+
+/* Class = "UILabel"; text = "22"; ObjectID = "ZAl-1Y-E83"; */
+"ZAl-1Y-E83.text" = "22";
+
+/* Class = "UILabel"; text = "Record: 245"; ObjectID = "ZRu-7E-dtz"; */
+"ZRu-7E-dtz.text" = "Record: 245";
+
+/* Class = "UILabel"; text = "Enrico Alberti"; ObjectID = "ZTY-3x-lYe"; */
+"ZTY-3x-lYe.text" = "Enrico Alberti";
+
+/* Class = "UILabel"; text = "PREPARATI AD INIZIARE"; ObjectID = "Zbg-Ml-o3P"; */
+"Zbg-Ml-o3P.text" = "PREPARATI AD INIZIARE";
+
+/* Class = "UISegmentedControl"; a42-vf-hYF.segmentTitles[0] = "I miei amici"; ObjectID = "a42-vf-hYF"; */
+"a42-vf-hYF.segmentTitles[0]" = "I miei amici";
+
+/* Class = "UISegmentedControl"; a42-vf-hYF.segmentTitles[1] = "Richieste"; ObjectID = "a42-vf-hYF"; */
+"a42-vf-hYF.segmentTitles[1]" = "Richieste";
+
+/* Class = "UILabel"; text = "Riassunto:"; ObjectID = "aE3-mh-fSo"; */
+"aE3-mh-fSo.text" = "Riassunto:";
+
+/* Class = "UIButton"; normalTitle = ">"; ObjectID = "aLc-k6-51k"; */
+"aLc-k6-51k.normalTitle" = ">";
+
+/* Class = "UISegmentedControl"; aVM-Xa-xaT.segmentTitles[0] = "Tutti"; ObjectID = "aVM-Xa-xaT"; */
+"aVM-Xa-xaT.segmentTitles[0]" = "Tutti";
+
+/* Class = "UISegmentedControl"; aVM-Xa-xaT.segmentTitles[1] = "Addominali"; ObjectID = "aVM-Xa-xaT"; */
+"aVM-Xa-xaT.segmentTitles[1]" = "Addominali";
+
+/* Class = "UISegmentedControl"; aVM-Xa-xaT.segmentTitles[2] = "Flessioni"; ObjectID = "aVM-Xa-xaT"; */
+"aVM-Xa-xaT.segmentTitles[2]" = "Flessioni";
+
+/* Class = "UILabel"; text = "-"; ObjectID = "akF-nJ-bLp"; */
+"akF-nJ-bLp.text" = "-";
+
+/* Class = "UILabel"; text = "18 - 10 - 15 - 6 - 2"; ObjectID = "b5M-GJ-qyj"; */
+"b5M-GJ-qyj.text" = "18 - 10 - 15 - 6 - 2";
+
+/* Class = "UILabel"; text = "Tempo:"; ObjectID = "bKX-Ew-AhS"; */
+"bKX-Ew-AhS.text" = "Tempo:";
+
+/* Class = "UILabel"; text = "Sergio Mattarella"; ObjectID = "bUZ-dH-nTp"; */
+"bUZ-dH-nTp.text" = "Sergio Mattarella";
+
+/* Class = "UIButton"; normalTitle = "<"; ObjectID = "bgg-6x-4pB"; */
+"bgg-6x-4pB.normalTitle" = "<";
+
+/* Class = "UILabel"; text = "LIVELLO ATTUALE"; ObjectID = "boY-9k-mk9"; */
+"boY-9k-mk9.text" = "LIVELLO ATTUALE";
+
+/* Class = "UILabel"; text = "@enricox"; ObjectID = "c1a-Rx-yU7"; */
+"c1a-Rx-yU7.text" = "@enricox";
+
+/* Class = "UILabel"; text = "MAGGIO"; ObjectID = "c1l-d8-1Lr"; */
+"c1l-d8-1Lr.text" = "MAGGIO";
+
+/* Class = "UILabel"; text = "SERIE:"; ObjectID = "cBp-Og-IE5"; */
+"cBp-Og-IE5.text" = "SERIE:";
+
+/* Class = "UISegmentedControl"; coc-TF-H3f.segmentTitles[0] = "Settimana"; ObjectID = "coc-TF-H3f"; */
+"coc-TF-H3f.segmentTitles[0]" = "Settimana";
+
+/* Class = "UISegmentedControl"; coc-TF-H3f.segmentTitles[1] = "Mese"; ObjectID = "coc-TF-H3f"; */
+"coc-TF-H3f.segmentTitles[1]" = "Mese";
+
+/* Class = "UISegmentedControl"; coc-TF-H3f.segmentTitles[2] = "Anno"; ObjectID = "coc-TF-H3f"; */
+"coc-TF-H3f.segmentTitles[2]" = "Anno";
+
+/* Class = "UILabel"; text = "Ricordamelo alle 21:00"; ObjectID = "dFg-NL-jNl"; */
+"dFg-NL-jNl.text" = "Ricordamelo alle 21:00";
+
+/* Class = "UILabel"; text = "72"; ObjectID = "dHa-Ux-Sl9"; */
+"dHa-Ux-Sl9.text" = "72";
+
+/* Class = "UILabel"; text = "0.2"; ObjectID = "dRv-VU-YSs"; */
+"dRv-VU-YSs.text" = "0.2";
+
+/* Class = "UINavigationItem"; title = "SESSIONE TERMINATA"; ObjectID = "dS6-Bh-JgW"; */
+"dS6-Bh-JgW.title" = "SESSIONE TERMINATA";
+
+/* Class = "UILabel"; text = "22"; ObjectID = "dTV-oB-3oL"; */
+"dTV-oB-3oL.text" = "22";
+
+/* Class = "UILabel"; text = "@mattax"; ObjectID = "dWs-Az-yY3"; */
+"dWs-Az-yY3.text" = "@mattax";
+
+/* Class = "UILabel"; text = "LIVELLO ATTUALE"; ObjectID = "e9L-5b-bBa"; */
+"e9L-5b-bBa.text" = "LIVELLO ATTUALE";
+
+/* Class = "UINavigationItem"; title = "Profilo"; ObjectID = "efx-iV-wUY"; */
+"efx-iV-wUY.title" = "Profilo";
+
+/* Class = "UIButton"; normalTitle = "Triplo tap per finire"; ObjectID = "ekZ-GW-Ozu"; */
+"ekZ-GW-Ozu.normalTitle" = "Triplo tap per finire";
+
+/* Class = "UILabel"; text = "22"; ObjectID = "fRJ-NY-Hob"; */
+"fRJ-NY-Hob.text" = "22";
+
+/* Class = "UILabel"; text = "Allenamento libero"; ObjectID = "g8U-Vq-8B7"; */
+"g8U-Vq-8B7.text" = "Allenamento libero";
+
+/* Class = "UILabel"; text = "Riassunto:"; ObjectID = "gPJ-tj-gHr"; */
+"gPJ-tj-gHr.text" = "Riassunto:";
+
+/* Class = "UILabel"; text = "18  -  20 -  15  -  10  -  6  "; ObjectID = "gx4-IH-7uR"; */
+"gx4-IH-7uR.text" = "18  -  20 -  15  -  10  -  6  ";
+
+/* Class = "UILabel"; text = "5"; ObjectID = "hA6-bY-jSQ"; */
+"hA6-bY-jSQ.text" = "5";
+
+/* Class = "UISegmentedControl"; hKw-aT-aTW.segmentTitles[0] = "Sempre"; ObjectID = "hKw-aT-aTW"; */
+"hKw-aT-aTW.segmentTitles[0]" = "Sempre";
+
+/* Class = "UISegmentedControl"; hKw-aT-aTW.segmentTitles[1] = "Mese"; ObjectID = "hKw-aT-aTW"; */
+"hKw-aT-aTW.segmentTitles[1]" = "Mese";
+
+/* Class = "UISegmentedControl"; hKw-aT-aTW.segmentTitles[2] = "Settimana"; ObjectID = "hKw-aT-aTW"; */
+"hKw-aT-aTW.segmentTitles[2]" = "Settimana";
+
+/* Class = "UISegmentedControl"; hKw-aT-aTW.segmentTitles[3] = "Oggi"; ObjectID = "hKw-aT-aTW"; */
+"hKw-aT-aTW.segmentTitles[3]" = "Oggi";
+
+/* Class = "UIButton"; normalTitle = "Triplo tap per finire"; ObjectID = "hh2-7Z-Lg0"; */
+"hh2-7Z-Lg0.normalTitle" = "Triplo tap per finire";
+
+/* Class = "UILabel"; text = "Sergio Mattarella"; ObjectID = "iIE-tN-ZkR"; */
+"iIE-tN-ZkR.text" = "Sergio Mattarella";
+
+/* Class = "UILabel"; text = "21"; ObjectID = "ial-sd-YQZ"; */
+"ial-sd-YQZ.text" = "21";
+
+/* Class = "UILabel"; text = "Addominali totali:"; ObjectID = "jF4-z8-Wv9"; */
+"jF4-z8-Wv9.text" = "Addominali totali:";
+
+/* Class = "UIButton"; normalTitle = "VAI"; ObjectID = "jje-ss-A2A"; */
+"jje-ss-A2A.normalTitle" = "VAI";
+
+/* Class = "UILabel"; text = "22"; ObjectID = "k82-ts-PnH"; */
+"k82-ts-PnH.text" = "22";
+
+/* Class = "UILabel"; text = "ESERCIZI"; ObjectID = "lgx-qA-ckH"; */
+"lgx-qA-ckH.text" = "ESERCIZI";
+
+/* Class = "UIButton"; normalTitle = "ACCEDI CON APPLE"; ObjectID = "lhm-2I-tzx"; */
+"lhm-2I-tzx.normalTitle" = "ACCEDI CON APPLE";
+
+/* Class = "UILabel"; text = "22"; ObjectID = "mBa-9p-yhO"; */
+"mBa-9p-yhO.text" = "22";
+
+/* Class = "UILabel"; text = "Ultimo allenamento: ieri"; ObjectID = "mCg-zU-hAg"; */
+"mCg-zU-hAg.text" = "Ultimo allenamento: ieri";
+
+/* Class = "UILabel"; text = "1"; ObjectID = "mui-ch-34n"; */
+"mui-ch-34n.text" = "1";
+
+/* Class = "UITabBarItem"; title = "Addominali"; ObjectID = "o9Y-6P-3oP"; */
+"o9Y-6P-3oP.title" = "Addominali";
+
+/* Class = "UILabel"; text = "Allenamento libero"; ObjectID = "oi7-c6-pFG"; */
+"oi7-c6-pFG.text" = "Allenamento libero";
+
+/* Class = "UISegmentedControl"; pG9-aq-vxT.segmentTitles[0] = "Classifica"; ObjectID = "pG9-aq-vxT"; */
+"pG9-aq-vxT.segmentTitles[0]" = "Classifica";
+
+/* Class = "UISegmentedControl"; pG9-aq-vxT.segmentTitles[1] = "Feed"; ObjectID = "pG9-aq-vxT"; */
+"pG9-aq-vxT.segmentTitles[1]" = "Feed";
+
+/* Class = "UILabel"; text = "627"; ObjectID = "pJ7-WM-ttd"; */
+"pJ7-WM-ttd.text" = "627";
+
+/* Class = "UILabel"; text = "Statistiche"; ObjectID = "pcw-GL-xJK"; */
+"pcw-GL-xJK.text" = "Statistiche";
+
+/* Class = "UINavigationItem"; title = "SESSIONE IN CORSO"; ObjectID = "pud-u8-tsD"; */
+"pud-u8-tsD.title" = "SESSIONE IN CORSO";
+
+/* Class = "UILabel"; text = "23/02/18"; ObjectID = "pui-8z-z8q"; */
+"pui-8z-z8q.text" = "23/02/18";
+
+/* Class = "UILabel"; text = "Prossima sessione tra: "; ObjectID = "pzI-pD-YWi"; */
+"pzI-pD-YWi.text" = "Prossima sessione tra: ";
+
+/* Class = "UILabel"; text = "Nessun allenamento fatto"; ObjectID = "qH3-C0-0t4"; */
+"qH3-C0-0t4.text" = "Nessun allenamento fatto";
+
+/* Class = "UINavigationItem"; title = "Aggiungi amico"; ObjectID = "qqj-pe-LTW"; */
+"qqj-pe-LTW.title" = "Aggiungi amico";
+
+/* Class = "UILabel"; text = "@mattax"; ObjectID = "quo-Lx-qgQ"; */
+"quo-Lx-qgQ.text" = "@mattax";
+
+/* Class = "UITabBarItem"; title = "Item"; ObjectID = "rAK-df-H48"; */
+"rAK-df-H48.title" = "Item";
+
+/* Class = "UILabel"; text = "PER RECORD:"; ObjectID = "rDh-9t-jRW"; */
+"rDh-9t-jRW.text" = "PER RECORD:";
+
+/* Class = "UIButton"; normalTitle = "Accetta"; ObjectID = "rOH-vX-bcD"; */
+"rOH-vX-bcD.normalTitle" = "Accetta";
+
+/* Class = "UILabel"; text = "22"; ObjectID = "rnw-RH-RXD"; */
+"rnw-RH-RXD.text" = "22";
+
+/* Class = "UISearchBar"; placeholder = "Cerca per username"; ObjectID = "s24-Xz-HWx"; */
+"s24-Xz-HWx.placeholder" = "Cerca per username";
+
+/* Class = "UILabel"; text = "15 FEB 2020"; ObjectID = "sCD-j9-hQi"; */
+"sCD-j9-hQi.text" = "15 FEB 2020";
+
+/* Class = "UILabel"; text = "MAGGIO"; ObjectID = "sZL-IB-MxW"; */
+"sZL-IB-MxW.text" = "MAGGIO";
+
+/* Class = "UIButton"; normalTitle = "<"; ObjectID = "tMu-da-WVD"; */
+"tMu-da-WVD.normalTitle" = "<";
+
+/* Class = "UILabel"; text = "5    10   15  20  25"; ObjectID = "u16-mY-MRp"; */
+"u16-mY-MRp.text" = "5    10   15  20  25";
+
+/* Class = "UILabel"; text = "Ultimo allenamento: ieri"; ObjectID = "uTA-0m-Bep"; */
+"uTA-0m-Bep.text" = "Ultimo allenamento: ieri";
+
+/* Class = "UIButton"; normalTitle = "Fine"; ObjectID = "uTE-ao-hal"; */
+"uTE-ao-hal.normalTitle" = "Fine";
+
+/* Class = "UILabel"; text = "5"; ObjectID = "ugz-Gn-rP1"; */
+"ugz-Gn-rP1.text" = "5";
+
+/* Class = "UILabel"; text = "ore di esercizi"; ObjectID = "v3B-fO-2mJ"; */
+"v3B-fO-2mJ.text" = "ore di esercizi";
+
+/* Class = "UINavigationItem"; title = "TUTTI I LIVELLI"; ObjectID = "v8h-2O-0KD"; */
+"v8h-2O-0KD.title" = "TUTTI I LIVELLI";
+
+/* Class = "UILabel"; text = "Sabato 4 aprile"; ObjectID = "w37-Vt-nuF"; */
+"w37-Vt-nuF.text" = "Sabato 4 aprile";
+
+/* Class = "UILabel"; text = "Sergio Mattarella"; ObjectID = "w5R-Bq-kOp"; */
+"w5R-Bq-kOp.text" = "Sergio Mattarella";
+
+/* Class = "UILabel"; text = "5"; ObjectID = "w93-up-xhD"; */
+"w93-up-xhD.text" = "5";
+
+/* Class = "UILabel"; text = "Statistiche"; ObjectID = "x3q-1K-nGg"; */
+"x3q-1K-nGg.text" = "Statistiche";
+
+/* Class = "UILabel"; text = "RECORD"; ObjectID = "xvn-3P-0Sd"; */
+"xvn-3P-0Sd.text" = "RECORD";
+
+/* Class = "UILabel"; text = "26"; ObjectID = "yTo-XS-aWc"; */
+"yTo-XS-aWc.text" = "26";
+
+/* Class = "UILabel"; text = "Nessun allenamento fatto"; ObjectID = "yaN-TO-WML"; */
+"yaN-TO-WML.text" = "Nessun allenamento fatto";
+
+/* Class = "UILabel"; text = "22"; ObjectID = "ydf-C7-Hi9"; */
+"ydf-C7-Hi9.text" = "22";
+
+/* Class = "UILabel"; text = "1"; ObjectID = "yiF-Ge-fqf"; */
+"yiF-Ge-fqf.text" = "1";
+
+/* Class = "UILabel"; text = "Record: 245"; ObjectID = "z0e-dS-fxo"; */
+"z0e-dS-fxo.text" = "Record: 245";
+
+/* Class = "UIButton"; normalTitle = "Salva sessione"; ObjectID = "zAI-V3-vG0"; */
+"zAI-V3-vG0.normalTitle" = "Salva sessione";
+
+/* Class = "UILabel"; text = "UTENTE DAL -"; ObjectID = "zvB-DP-dMw"; */
+"zvB-DP-dMw.text" = "UTENTE DAL -";

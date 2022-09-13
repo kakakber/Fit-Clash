@@ -1,0 +1,138 @@
+/* 
+  Localizable.strings
+  allenamento
+
+  Created by Enrico on 01/05/2020.
+  Copyright © 2020 Enrico Alberti. All rights reserved.
+*/
+//loginvc
+"Nome (facoltativo)" = "Nome (facoltativo)";
+"Nome completo" = "Nome completo";
+"ACCEDI CON APPLE" = "   Accedi con Apple";
+"Errore" = "Errore";
+"Inserire del testo in entrambi i campi" = "Inserire del testo in entrambi i campi";
+"L'username non può contenere spazi!" = "L'username non può contenere spazi!";
+"Errore nell'aggiungere l'utente" = "Errore nell'aggiungere l'utente";
+
+"Errore nella fase di login, riprovare" = "Errore nella fase di login, riprovare";
+
+"Nome utente non disponibile" = "Nome utente non disponibile";
+
+"Questo nome utente è già in uso, scegline un altro, per favore" = "Questo nome utente è già in uso, scegline un altro, per favore";
+
+"È avvenuto un'errore durante la fase di autenticazione, riprovare" = "È avvenuto un'errore durante la fase di autenticazione, riprovare";
+
+"Errore durante la fase finale di LogIn, ritentare" = "Errore durante la fase finale di LogIn, ritentare";
+
+"È avvenuto un'errore durante la fase di autenticazione,nessuna richiesta di logIn è stata inviata, riprovare" = "È avvenuto un'errore durante la fase di autenticazione,nessuna richiesta di logIn è stata inviata, riprovare";
+
+"È avvenuto un'errore durante la fase di autenticazione, IDToken non ricevuto, riprovare" = "È avvenuto un'errore durante la fase di autenticazione, IDToken non ricevuto, riprovare";
+
+"È avvenuto un'errore durante la fase di autenticazione, serializzazione del token non riuscita, riprovare" = "È avvenuto un'errore durante la fase di autenticazione, serializzazione del token non riuscita, riprovare";
+
+"È avvenuto un'errore durante la fase finale di autenticazione, riprovare" = "È avvenuto un'errore durante la fase finale di autenticazione, riprovare";
+
+//mainamicivc
+"Tira per aggiornare" = "Tira per aggiornare";
+"Classifica" = "Classifica";
+"SESSIONI RECENTI" = "SESSIONI RECENTI";
+"Tu" = "Tu";
+"ULTIMO MESE" = "ULTIMO MESE";
+"ULTIMA SETTIMANA" = "ULTIMA SETTIMANA";
+"OGGI" = "OGGI";
+"DI SEMPRE" = "DI SEMPRE";
+"\nNessun risultato" = "\nNessun risultato";
+"Nessun elemento nel feed" = "Nessun elemento nel feed";
+
+"MESE" = "MESE";
+"SETTIMANA" = "SETTIMANA";
+"OGGI" = "OGGI";
+"SEMPRE" = "SEMPRE";
+"RECENTI" = "RECENTI";
+
+"TUTTI" = "TUTTI";
+"ADDOMINALI" = "ADDOMINALI";
+"FLESSIONI" = "FLESSIONI";
+
+//profilovc
+"UTENTE DAL" = "UTENTE DAL";
+
+//amiciinfovc
+"I MIEI AMICI" = "I MIEI AMICI";
+"RICHIESTE" = "RICHIESTE";
+"Rimuovere amico" = "Rimuovere amico";
+"Vuoi rimuovere" = "Vuoi rimuovere";
+"dai tuoi amici?" = "dai tuoi amici?";
+"Rimuovi" = "Rimuovi";
+"Annulla" = "Annulla";
+"È avvenuto un errore sconosciuto nel rimuovere l'amico" = "È avvenuto un errore sconosciuto nel rimuovere l'amico";
+"È avvenuto un errore nell'accettare l'amicizia" = "È avvenuto un errore nell'accettare l'amicizia";
+"È avvenuto un errore nel rifiutare l'amicizia" = "È avvenuto un errore nel rifiutare l'amicizia";
+"\nNessun amico presente" = "\nNessun amico presente";
+"\nNessuna richiesta ricevuta" = "\nNessuna richiesta ricevuta";
+"aggiungine uno premendo in alto a destra" = "aggiungine uno premendo in alto a destra";
+
+//aggiungiamicovc
+"\nNessun risultato" = "\nNessun risultato";
+"Assicurati di aver digitato il nome corretto e che l'utente non sia già tra i tuoi amici" = "Assicurati di aver digitato il nome corretto e che l'utente non sia già tra i tuoi amici";
+"È avvenuto un'errore nel fare la richiesta riprovare" = "È avvenuto un'errore nel fare la richiesta riprovare";
+"Attenzione" = "Attenzione";
+"Hai già fatto una richiesta a questo utente" = "Hai già fatto una richiesta a questo utente";
+"ti ha già fatto una richiesta, vai nella sezione 'richieste' per accettarla" = "ti ha già fatto una richiesta, vai nella sezione 'richieste' per accettarla";
+"Richiesta inviata" = "Richiesta inviata";
+"Attendi che" = "Attendi che"; //wait for
+"risponda" = "risponda"; //to respond
+
+//mainflessioni
+"flessioni" = "flessioni";
+"addominali" = "addominali";
+"Ricordamelo alle" = "Ricordamelo alle";
+"Promemoria flessioni" = "Promemoria flessioni";
+"È il momento di fare un po di flessioni" = "È il momento di fare un po di flessioni";
+"Ricordamelo alle" = "Ricordamelo alle";
+"Ricordamelo alle 18:00" = "Ricordamelo alle 18:00";
+"ultimo allenamento: mai" = "ultimo allenamento: mai";
+"ultimo allenamento" = "ultimo allenamento";
+"Prossima sessione tra 00:00:00" = "Prossima sessione tra 00:00:00";
+"Prossima sessione tra" = "Prossima sessione tra";
+"Completato" = "Completato";
+"Da fare" = "Da fare";
+"Oggi" = "Oggi";
+"Livello" = "Livello";
+"Selezione livello" = "Selezione livello";
+"Vuoi selezionare questo livello come livello corrente?" = "Vuoi selezionare questo livello come livello corrente?";
+"Si" = "Si";
+
+//sessioneflessioni
+"PER BATTERE IL RECORD" = "PER BATTERE IL RECORD";
+"PREPARATI AD INIZIARE" = "PREPARATI AD INIZIARE";
+"DA FARE" = "DA FARE";
+"IN PAUSA, PREMI PER CONTINUARE" = "IN PAUSA, PREMI PER CONTINUARE";
+"NUOVO RECORD" = "NUOVO RECORD";
+"AGGIUNTIVI" = "AGGIUNTIVI";
+"ALLENAMENTO LIBERO" = "ALLENAMENTO LIBERO";
+"NUOVO RECORD" = "NUOVO RECORD";
+
+"Riassunto" = "Riassunto";
+"Flessioni totali" = "Flessioni totali";
+"Addominali totali" = "Addominali totali";
+"Tempo totale" = "Tempo totale";
+"Salva sessione" = "Salva sessione";
+"Record precedente:" = "Record precedente:";
+
+//mainaddominali
+"Promemoria addominali" = "Promemoria addominali";
+"È il momento di fare un po di addominali" = "È il momento di fare un po di addominali";
+
+
+//presentazione
+" ti dà il benvenuto" = " ti dà il benvenuto";
+"Allena gli addominali" = "Allena gli addominali";
+"\nProgramma giornaliero e sessioni libere, incrocia le braccia sul petto e tieni il telefono con una delle due mani, il conteggio degli addominali sarà automatico" = "\nProgramma giornaliero e sessioni libere, incrocia le braccia sul petto e tieni il telefono con una delle due mani, il conteggio degli addominali sarà automatico";
+"Allena le flessioni" = "Allena le flessioni";
+"\nProgramma giornaliero e sessioni libere, poni il telefono a terra in linea con la tua testa e tocca il telefono con il naso ad ogni flessione, il conteggio sarà automatico" = "\nProgramma giornaliero e sessioni libere, poni il telefono a terra in linea con la tua testa e avvicinati al telefono ad ogni flessione, il conteggio sarà automatico";
+"Sfida i tuoi amici" = "Sfida i tuoi amici";
+"\nAggiungi amici e sfidali grazie ad una classifica divisa in periodi e tipi di esercizio e guarda la frequenza dei loro allenamenti grazie ad un feed personalizzato" = "\nAggiungi amici e sfidali grazie ad una classifica divisa in periodi e tipi di esercizio e guarda la frequenza dei loro allenamenti grazie ad un feed personalizzato";
+
+"Iniziamo" = "Iniziamo";
+

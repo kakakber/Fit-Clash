@@ -1,0 +1,140 @@
+/*
+  Localizable.strings
+  allenamento
+
+  Created by Enrico on 01/05/2020.
+  Copyright © 2020 Enrico Alberti. All rights reserved.
+*/
+"Nome (facoltativo)" = "Name (optional)";
+"Nome completo" = "Complete name";
+"ACCEDI CON APPLE" = "   Sign in with Apple";
+"Errore" = "Error";
+"Inserire del testo in entrambi i campi" = "Fill out both field";
+"L'username non può contenere spazi!" = "Username canot contain spaces!";
+"Errore nell'aggiungere l'utente" = "Error in adding the user";
+
+"Errore nella fase di login, riprovare" = "Error during login, try again";
+
+"Nome utente non disponibile" = "Username not available";
+
+"Questo nome utente è già in uso, scegline un altro, per favore" = "This username is already taken, please choose a different one";
+
+"È avvenuto un'errore durante la fase di autenticazione, riprovare" = "There was an error during authentication, try again";
+
+"Errore durante la fase finale di LogIn, ritentare" = "Error during the final phase of logIn, try again";
+
+"È avvenuto un'errore durante la fase di autenticazione,nessuna richiesta di logIn è stata inviata, riprovare" = "There was an error during authentication, no logIn request was sent, try again";
+
+"È avvenuto un'errore durante la fase di autenticazione, IDToken non ricevuto, riprovare" = "There was an error during authentication, IDToken not received, try again";
+
+"È avvenuto un'errore durante la fase di autenticazione, serializzazione del token non riuscita, riprovare" = "Ther was an error during authentication, token serialization failed, try again";
+
+"È avvenuto un'errore durante la fase finale di autenticazione, riprovare" = "Error during the final phase of logIn, try again";
+
+//mainamicivc
+"Tira per aggiornare" = "Pull to refresh";
+"Classifica" = "Leaderboard";
+"SESSIONI RECENTI" = "LAST SESSIONS";
+"Tu" = "You";
+"ULTIMO MESE" = "LAST MONTH";
+"ULTIMA SETTIMANA" = "LAST WEEK";
+"OGGI" = "TODAY";
+"DI SEMPRE" = "ALWAYS";
+"\nNessun risultato" = "\nNo results";
+"Nessun elemento nel feed" = "No element in feed";
+
+"MESE" = "MONTH";
+"SETTIMANA" = "WEEK";
+"OGGI" = "TODAY";
+"SEMPRE" = "ALWAYS";
+"RECENTI" = "RECENT";
+
+"TUTTI" = "ALL";
+"ADDOMINALI" = "SIT-UPS";
+"FLESSIONI" = "PULL-UPS";
+
+//profilovc
+"UTENTE DAL" = "USER SINCE";
+
+//amiciinfovc
+"I MIEI AMICI" = "MY FRIENDS";
+"RICHIESTE" = "REQUESTS";
+"Rimuovere amico" = "Remove friend";
+"Vuoi rimuovere" = "Do you want to remove";
+"dai tuoi amici?" = "from your friends?";
+"Rimuovi" = "Remove";
+"Annulla" = "Dismiss";
+"È avvenuto un errore sconosciuto nel rimuovere l'amico" = "An unknown error occurred while removing the friend";
+"È avvenuto un errore nell'accettare l'amicizia" = "An error occurred while accepting the request";
+"È avvenuto un errore nel rifiutare l'amicizia" = "An error occurred while refusing the request";
+"\nNessun amico presente" = "\nNo friends";
+"\nNessuna richiesta ricevuta" = "\nNo requests received";
+"aggiungine uno premendo in alto a destra" = "add one by pressing the top right corner";
+
+//aggiungiamicovc
+"\nNessun risultato" = "\nNo results available";
+"Assicurati di aver digitato il nome corretto e che l'utente non sia già tra i tuoi amici" = "Be sure that you typed the correct username and that the user isn't already your friend";
+"È avvenuto un'errore nel fare la richiesta riprovare" = "there was an error in composing the request";
+"Attenzione" = "Attenzione";
+"Hai già fatto una richiesta a questo utente" = "You already sent a request to this user";
+"ti ha già fatto una richiesta, vai nella sezione 'richieste' per accettarla" = "already sent you a request, go to the section 'requests' to accept it";
+"Richiesta inviata" = "Request sent";
+"Attendi che" = "Wait for"; //wait for
+"risponda" = "to respond"; //to respond
+
+//mainflessioni
+"flessioni" = "push-ups";
+"addominali" = "sit-ups";
+"Ricordamelo alle" = "Remind me at";
+"Promemoria flessioni" = "Push-ups reminder";
+"È il momento di fare un po di flessioni" = "It's the right time to do some push-ups!";
+"Ricordamelo alle" = "Remind me at:";
+"Ricordamelo alle 18:00" = "Remind me at 18:00";
+"ultimo allenamento: mai" = "last training: never";
+"ultimo allenamento" = "last training";
+"Prossima sessione tra 00:00:00" = "Next session in 00:00:00";
+"Prossima sessione tra" = "Next session in";
+"Completato" = "Completed";
+"Da fare" = "To do";
+"Oggi" = "Today";
+"Livello" = "Level";
+"Selezione livello" = "Level selection";
+"Vuoi selezionare questo livello come livello corrente?" = "Do you want to select this level as your current level?";
+"Si" = "Si";
+
+//sessioneflessioni
+"PER BATTERE IL RECORD" = "TO BEAT THE RECORD";
+"PREPARATI AD INIZIARE" = "PREPARE TO START";
+"DA FARE" = "TO DO";
+"IN PAUSA, PREMI PER CONTINUARE" = "IN PAUSE, PRESS TO CONTINUE";
+"NUOVO RECORD" = "NEW RECORD";
+"AGGIUNTIVI" = "EXTRA";
+"ALLENAMENTO LIBERO" = "FREE TRAINING";
+"NUOVO RECORD" = "NEW RECORD";
+
+"Riassunto" = "Recap";
+"Flessioni totali" = "Total push-ups";
+"Addominali totali" = "Total sit-ups";
+"Tempo totale" = "Total time";
+"Salva sessione" = "Save session";
+"Record precedente:" = "Previous record:";
+
+//mainaddominali
+"Promemoria addominali" = "Sit-ups reminder";
+"È il momento di fare un po di addominali" = "It's the right time for some sit-ups";
+
+"Record precedente:" = "Previous record:";
+
+
+//presentazione
+" ti dà il benvenuto" = " welcomes you";
+"Allena gli addominali" = "Sit-ups training";
+"\nProgramma giornaliero e sessioni libere, incrocia le braccia sul petto e tieni il telefono con una delle due mani, il conteggio degli addominali sarà automatico" = "\nDaily schedule and free sessions, cross your arms over your chest and hold your phone with one of your arms, counting will be automatic";
+"Allena le flessioni" = "Push-ups training";
+"\nProgramma giornaliero e sessioni libere, poni il telefono a terra in linea con la tua testa e tocca il telefono con il naso ad ogni flessione, il conteggio sarà automatico" = "\nDaily schedule and free sessions, put your phone on the ground aligned with your head and get close to it with your head each push up, counting will be automatic";
+"Sfida i tuoi amici" = "Challenge your friends";
+"\nAggiungi amici e sfidali grazie ad una classifica divisa in periodi e tipi di esercizio e guarda la frequenza dei loro allenamenti grazie ad un feed personalizzato" = "\nAdd friends and challenge them thanks to a leaderbord divided in periods and types of exercise and check the frequence of their trainings thanks to a custom feed";
+
+"Iniziamo" = "Start";
+
+
